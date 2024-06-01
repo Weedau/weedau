@@ -1,7 +1,3 @@
-# My PGP Public Key
-
-#Web3_Ninga 
-
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 
 mQINBFzve3kBEADaKJ7ud7sHDn7HcN//Wher0PByd2Py1svK2CyFiElXH15HmCuL
@@ -65,4 +61,5 @@ oJI5c9kyHV38Eh5nwFOEAWaj+SFauGFRpTVsTedoTg3frW6sBy6hM5c36BLvF27c
 RPklPRNJqJvvR3P36wrRcJHNgRAV0Fb4/ha+t+tqlouefson71tV+E9KcZX0MehV
 a7reDLpG0mvU+6ZdpJJC
 =y3km
+
 -----END PGP PUBLIC KEY BLOCK-----
